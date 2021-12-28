@@ -1,6 +1,3 @@
-# healthcorner
-Qa boneee
+#HealthCorner
+Landing page full responsive per qdo ekran.
 
-
-
-jo kurgjo
