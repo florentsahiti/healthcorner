@@ -85,6 +85,10 @@ obs.observe(sectionHeroEl);
 
 
 
+
+
+///THIS IS THE PART OF THE CODE FOR THE LINK BECAUSE IT IS A BUG IN CHROME THAT DOESN'T WORK SO IF THE LINKS WORK NXT LINE /////
+///AND THE MENU IN MOBILE VERSION DOESNT WORK COMMENT THIS CODE THEN THE MENU BAR WILL WORK/////////////
 jQuery(document).ready(function() { var isChrome = /Chrome/.test(navigator.userAgent) && /Google Inc/.test(navigator.vendor); if (window.location.hash && isChrome) { setTimeout(function() { var hash = window.location.hash;
             window.location.hash = “”;
             window.location.hash = hash; }, 300); } });
